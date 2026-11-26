@@ -1,3 +1,4 @@
+
 # IIITM Alumni Meet and Network
 
 An alumni preservation website for the IIITM community, built to support Alumni Meet events and make alumni connections easier. This presents an interactive alumni directory, missing-alumni search, profile update workflow, and restricted volunteer review portal.
@@ -8,10 +9,9 @@ The alumni network is backed by MongoDB and currently contains **4,500+ alumni r
 
 A complete walkthrough is available in [assets/Video.mp4](./assets/Video.mp4). It demonstrates the website, the alumni directory, and the missing-alumni search functionality.
 
-<video controls width="100%">
-  <source src="./assets/Video.mp4" type="video/mp4">
-  Your browser does not support embedded video playback.
-</video>
+https://github.com/user-attachments/assets/e766f9d2-e270-458d-b0f0-333ca61b75d1
+
+
 
 ## Key Features
 
